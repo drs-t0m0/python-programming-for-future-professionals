@@ -11,7 +11,10 @@
 - https://gihyo.jp/book/2017/978-4-7741-9397-7
 - https://github.com/JunichiIto/ruby-book-codes
 
-書籍を読了した後、Pythonを学びたい方などに参考となればと思います。
+## 対象者
+
+- 書籍を読了した後、Pythonを学びたい方
+- Pythonの文法を復習したい方
 
 ## 検証環境
 
