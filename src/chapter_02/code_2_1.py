@@ -37,8 +37,8 @@ t = (100, 200, 300)
 c, d, e = t
 print(c, d, e)
 
-l = [10, 20, 30]
-f, g, h = l
+lst = [10, 20, 30]
+f, g, h = lst
 print(f, g, h)
 
 # 2つの変数に同じ値を代入
@@ -46,5 +46,5 @@ i = j = 5
 print(i, j)
 
 # 数値, 真偽値, None以外のオブジェクトに対してのメソッド呼び出し
-l.append(40)
-print(l)
+lst.append(40)
+print(lst)

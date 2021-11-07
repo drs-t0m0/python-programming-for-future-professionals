@@ -1,3 +1,5 @@
+from fractions import Fraction
+
 # 正の整数
 print(10)
 
@@ -109,8 +111,6 @@ print(0b1010 << 1)
 print(2e-3)
 
 # 有理数
-from fractions import Fraction
-
 print(Fraction(2, 3))
 print(Fraction("2/3"))
 
