@@ -1,6 +1,4 @@
-# Python入門
-
-サンプルコードでPythonの文法とテストについて学びます。
+# Python
 
 ## 参考
 
@@ -11,19 +9,12 @@
 - https://gihyo.jp/book/2017/978-4-7741-9397-7
 - https://github.com/JunichiIto/ruby-book-codes
 
-## 対象者
-
-- 書籍を読了した後、Pythonを学びたい方
-- Pythonの文法を復習したい方
-
 ## 検証環境
 
 - macOS Big Sur version 11.6
 - PyCharm 2021.3
 
 ## 前提条件
-
-下記をセットアップして下さい。
 
 - Python
   - anyenv+pyenv
