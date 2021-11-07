@@ -9,6 +9,9 @@
 third partyライブラリのpytestの方が現場で利用されている認識です。  
 より、pytestを用います。
 
+* [test_code_3_1](./test_code_3_1.py)
+* [test_fizz_buzz](./test_fizz_buzz.py)
+
 ## 参考
 
 - https://docs.pytest.org/en/6.2.x/
